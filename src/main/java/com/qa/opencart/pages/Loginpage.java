@@ -10,7 +10,7 @@ public class Loginpage {
 	private String txt_email = "input#input-email";
 	private String txt_password = "input#input-password";
 	private String loginbtn="//input[@value='Login']";
-	private String fogotPwdLink="//div[@class='form-group']//a[normalize-space()='Forgotten Password11']";
+	private String fogotPwdLink="//div[@class='form-group']//a[normalize-space()='Forgotten Password']";
 	private String logoutLink="//a[@class='list-group-item'][normalize-space()='Logout']";
 	
 	// 2. Page constructor
