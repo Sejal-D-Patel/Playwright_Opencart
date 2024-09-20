@@ -23,6 +23,9 @@ public class HomePage {
 		System.out.println("Page title:" + title);
 		return title;
 	}
+	/*
+	 * Get Home Page URL
+	 * */
 
 	public String getHomePageURL() {
 		String url = page.url();
